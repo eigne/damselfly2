@@ -138,7 +138,8 @@ The correct sizes of each memory operation are visible in the Block details wind
 
 ## Block details
 
-![image](./docs/images/status.png)
+<img width="603" height="313" alt="Screenshot 2026-02-17 at 16 49 00" src="https://github.com/user-attachments/assets/6b0bb378-8823-4967-9a3d-1070be51219d" />
+
 
 The Block window describes the block currently selected and highlighted in dark blue. It shows all memory operations that have overlapped this tile from the beginning of the log until the timestamp selected on the graph.
 
